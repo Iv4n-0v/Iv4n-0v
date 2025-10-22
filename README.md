@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ivan V4negas</h1>
-<h3 align="center">A passionate systems Ingeenier student from Colombia in the College Universidad Católica de Colombia :3</h3>
+<h3 align="center">A passionate systems Ingeenier student from Colombia, from the College Universidad Católica de Colombia :3</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
